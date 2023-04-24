@@ -19,6 +19,7 @@ div {
     background-color: rgb(0, 0, 0, 0.2);
     max-width: 600px;
     margin: auto;
+    line-height: 1.5;
 }
 
 h1 {
